@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @OddActions
 - 👀 I’m interested in Game Developement
-- 🌱 I’m currently learning C#
+- 🌱 I’m currently learning Blender
 - 💞️ I’m currently not looking to collaborate
 - 📫 U can reach me on discord (OddActions #6154)
 
